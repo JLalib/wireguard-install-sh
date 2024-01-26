@@ -11,3 +11,5 @@ Run the script and follow the assistant:
 wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall WireGuard.
+
+![wireguard](https://github.com/JLalib/wireguard-install-sh/assets/57844755/8720cc6b-fd3b-428c-a26f-0b3d3fd7ea2b)
