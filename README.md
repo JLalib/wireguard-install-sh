@@ -63,7 +63,7 @@ Para visualizar el fichero .conf, puedes usar el comando cat
 
 Una vez que finalice, puede ejecutarlo nuevamente para agregar más usuarios, eliminar algunos de ellos o incluso desinstalar WireGuard por completo.
 
-Para copiar el fichero a tu equipo Windows, puedes usar el programa WinSCP.
+Para copiar el fichero a tu equipo Windows, puedes usar el programa WinSCP. https://winscp.net/eng/download.php
 
 Enlaces de los instaladores
 
@@ -82,5 +82,9 @@ Fuentes:
 https://www.wireguard.com/
 
 https://github.com/Nyr/wireguard-install
+
+https://github.com/angristan/wireguard-install
+
+https://github.com/hwdsl2/wireguard-install
 
 ![wireguard](https://github.com/JLalib/wireguard-install-sh/assets/57844755/8720cc6b-fd3b-428c-a26f-0b3d3fd7ea2b)
